@@ -1,6 +1,6 @@
 # Newsy App
 * [Link to deployment](https://newsy-app.herokuapp.com/)
-Newsy-App is a Node/Express/React/postgreSQL app that allows users to aggregate news based on their political leaning or interests.  It does this through selecting sources/topics.  They are able to choose an affiliation which automatically redirects them to their chosen afflilations sources, or they can choose to not identify which will bring them to an all page.  Regardless of their choice, users are allowed to view all sources or other sources.  Some other functionality is the ability to comment and like post, as well as remove those likes.  They can follow users whose comments they like and view this is in a feed. 
+* Newsy-App is a Node/Express/React/postgreSQL app that allows users to aggregate news based on their political leaning or interests.  It does this through selecting sources/topics.  They are able to choose an affiliation which automatically redirects them to their chosen afflilations sources, or they can choose to not identify which will bring them to an all page.  Regardless of their choice, users are allowed to view all sources or other sources.  Some other functionality is the ability to comment and like post, as well as remove those likes.  They can follow users whose comments they like and view this is in a feed. 
 
 # Challenges 
 ### There were a variety of challenges in creating this app, listed below. 
